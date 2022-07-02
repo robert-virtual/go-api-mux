@@ -1,2 +1,10 @@
+github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfCHuOE=
+github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
 github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
 github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/matthewhartstonge/argon2 v0.2.1 h1:DFzhPfXcKv4T/ITjoTtEDE/WP1G2eutQBntAzKPtXtc=
+github.com/matthewhartstonge/argon2 v0.2.1/go.mod h1:k3jqoN+y0w9Z6uJxIKiJDveAMDUaIBJkC/M2m37q6VM=
+golang.org/x/crypto v0.0.0-20220214200702-86341886e292 h1:f+lwQ+GtmgoY+A2YaQxlSOnDjXcQ7ZRLWOHbC6HtRqE=
+golang.org/x/crypto v0.0.0-20220214200702-86341886e292/go.mod h1:IxCIyHEi3zRg3s0A5j5BB6A9Jmi73HwBIUl50j+osU4=
+golang.org/x/sys v0.0.0-20220222160653-b146bcec3beb h1:Ilbx3DBAwVTR3lKQBhB5046dy7jic04dBpmG4fW/ru0=
+golang.org/x/sys v0.0.0-20220222160653-b146bcec3beb/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
